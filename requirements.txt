@@ -1,0 +1,4 @@
+neologd
+argparse
+tqdm
+mecab-python3
